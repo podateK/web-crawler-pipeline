@@ -1,0 +1,7 @@
+aiohttp>=3.9
+beautifulsoup4>=4.12
+lxml>=5.0
+sqlalchemy[asyncio]>=2.0
+aiosqlite>=0.19
+aiofiles>=23.0
+uvloop>=0.19;sys_platform!="win32"
